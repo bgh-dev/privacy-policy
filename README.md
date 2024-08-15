@@ -19,7 +19,7 @@ When you first use our app, you will be asked to grant permission for tracking. 
 
 For detailed information on how these ad networks handle your data, please review their privacy policies:
 
-Google AdMob Privacy Policy: Google AdMob Privacy Policy
+Google AdMob Privacy Policy: [Google AdMob Privacy Policy](https://policies.google.com/technologies/ads)
 
 
 **OUR COMMITMENT**
