@@ -71,13 +71,13 @@ The only time anything you saved leaves your device is when you choose to
 export your mood journal. The game then opens the iOS share sheet with your
 check-ins as a spreadsheet file, and the export goes only where you send it.
 
-Mood Match is a game, not a health service. Nothing you match, score or write
+Mood Match is a game. Nothing you match, score or write
 is used to assess your health or wellbeing. The game doesn't ask for your
 camera, photos, contacts or location.
 
 ## FoodOpedia
 
-FoodOpedia doesn't collect any personal data. The only information it
+FoodOpedia doesn't collect any personal data. It stores your preferences on your device for your exploration. The only information it
 handles is what Google's ad software uses to show ads, described above.
 
 ## Sharing
@@ -87,7 +87,7 @@ Apart from what Google's ad software handles to show ads, nothing leaves your
 device unless you choose to share it yourself, such as an exported mood
 journal.
 
-## Children
+## Audience
 
 Our apps are made for a general audience. We don't collect information from anyone, children included. If
 you have a concern, contact us.
